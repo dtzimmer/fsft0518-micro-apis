@@ -8,3 +8,9 @@
 {"name":"B-radical","price":"9.99","description":"desc","imageUri":"desc","linkUri":"desc","isActive":"true","_id":"NGKvXJeGxkGkBlH0"}
 {"name":"Chapster","price":"9.99","description":"desc","imageUri":"desc","linkUri":"desc","isActive":"true","_id":"sGkyrhFSoawYkMCp"}
 {"name":"ccc","price":"1.11","description":"ccc","imageUri":"ccc","linkUri":"ccc","isActive":"true","_id":"9QNwHbE9iKMtXbgt"}
+{"name":"Joe","price":"6.89","description":"Cool","imageUri":"asdk","linkUri":"asdfk","isActive":"true","_id":"zfUtmk8uEDNWmEM5"}
+{"name":"Fireworks guy","price":"4.99","description":"3,2,1 KABOOM","imageUri":"https://www.lego.com/en-us/themes/minifigures/characters/firework-guy-2562ac6444e84ce19deecd328909e510","linkUri":"https://www.lego.com/r/www/r/catalogs/-/media/catalogs/characters/minifigures/series%2018/336x448/71021_leaflet_firework_guy_336x448.jpg?l.r=-399710320","isActive":"true","_id":"l4N1JzCYeaYUMzZa"}
+{"name":"Fireworks Guy","price":"4.93","description":"3,2,1 KABOOM! Hello?","imageUri":"https://www.lego.com/r/www/r/catalogs/-/media/catalogs/characters/minifigures/series%2018/336x448/71021_leaflet_firework_guy_336x448.jpg?l.r=-399710320","linkUri":"https://www.lego.com/en-us/themes/minifigures/characters/firework-guy-2562ac6444e84ce19deecd328909e510","isActive":"true","_id":"9d72hCAPjJn88nkO"}
+{"name":"TT","price":"3.29","description":"TEST","imageUri":"TEST","linkUri":"TEST","isActive":"true","_id":"MExptC385wjU7X7j"}
+{"name":"Testing","price":"939","description":"sdkjfl","imageUri":"lsdfkdfk","linkUri":"kdjflk","isActive":"true","_id":"qw7O6sKL6NiIhhPn"}
+{"name":"Roger","price":"29.93","description":"Blah","imageUri":"aosiwoi","linkUri":"sodidoi","isActive":"true","_id":"X0S1yZGebjEIv5XB"}

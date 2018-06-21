@@ -11,8 +11,6 @@ export default cors(router(
   }),
   post('/', async (req, res) => {
     console.log(`I'm called`)
-
-    // throw Error('Blah')
     const figure = await json(req)
     const result = await Legos.insert(figure)
     return send(res, 201, result)
